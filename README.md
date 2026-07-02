@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a data science student <br>Programming enthusiast<br>Currently learning Machine Learning & Data Analysis<br>Turning data into insights <br>Interested in data Visualization and Analytics<br>
+I am a data science student <br>Currently learning Machine Learning & Data Analysis<br>Turning data into insights <br>Interested in data Visualization and Analytics<br>
 
 
 ## 🌐 Socials:
